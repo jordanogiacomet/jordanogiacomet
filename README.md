@@ -1,7 +1,6 @@
 Olá! Eu sou o Jordano Giacomet 
 
-- 🔭 Hoje eu trabalho com python
-- 🌱 Estudando Java
+- 🌱 Estudando Java e POO
 - 😄 Pronouns: ele/dele
 
 
