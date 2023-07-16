@@ -1,7 +1,7 @@
 Olá! Eu sou o Jordano Giacomet 
 
-- 🌱 Estudando Java e POO
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando PHP e Laravel
+- 😄 Apaixonado por programação
 
 
 <!DOCTYPE html>
