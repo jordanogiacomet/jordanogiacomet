@@ -8,6 +8,8 @@
 
 Estou sempre aberto a novas oportunidades, colaborações e discussões sobre a próxima grande ideia. Sinta-se à vontade para entrar em contato!
 
+Dev em MeuFluxo
+
 <!DOCTYPE html>
 <html lang="en">
 <head> 
